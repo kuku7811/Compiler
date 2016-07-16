@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compiler</string>
+	<string name="run">Выполнить</string>
+	<string name="back">Вернуться</string>
+	<string name="open">Открыть</string>
+	<string name="exit">Выйти</string>
+
+</resources>
